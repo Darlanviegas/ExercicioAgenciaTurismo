@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\AgenciaDeTurismo\bin\Debug\net6.0\AgenciaDeTurismo.exe
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\AgenciaDeTurismo\bin\Debug\net6.0\AgenciaDeTurismo.deps.json
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\AgenciaDeTurismo\bin\Debug\net6.0\AgenciaDeTurismo.runtimeconfig.json
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\AgenciaDeTurismo\bin\Debug\net6.0\AgenciaDeTurismo.dll
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\AgenciaDeTurismo\bin\Debug\net6.0\ref\AgenciaDeTurismo.dll
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\AgenciaDeTurismo\bin\Debug\net6.0\AgenciaDeTurismo.pdb
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\AgenciaDeTurismo\obj\Debug\net6.0\AgenciaDeTurismo.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\AgenciaDeTurismo\obj\Debug\net6.0\AgenciaDeTurismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\AgenciaDeTurismo\obj\Debug\net6.0\AgenciaDeTurismo.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\AgenciaDeTurismo\obj\Debug\net6.0\AgenciaDeTurismo.AssemblyInfo.cs
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\AgenciaDeTurismo\obj\Debug\net6.0\AgenciaDeTurismo.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\AgenciaDeTurismo\obj\Debug\net6.0\AgenciaDeTurismo.dll
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\AgenciaDeTurismo\obj\Debug\net6.0\ref\AgenciaDeTurismo.dll
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\AgenciaDeTurismo\obj\Debug\net6.0\AgenciaDeTurismo.pdb
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\AgenciaDeTurismo\obj\Debug\net6.0\AgenciaDeTurismo.genruntimeconfig.cache
