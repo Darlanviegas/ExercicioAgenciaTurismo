@@ -19,14 +19,32 @@ public class Pacotes
 }
 public class Passagem
 {
+    public Cliente cliente { get; set; }
     public double Valor { get; set; }
     public string EmpresaAerea { get; set; }
     public int Classe { get; set; }
-    public int Poltrona { get; set; }
+    public string Poltrona { get; set; }
     public DateTime DataEmbarque { get; set; }
     public DateTime HoraEmbarque { get; set; }
-    public void GetResumo()
+    public void GetResumo(Cliente cliente)
     {
+        Console.WriteLine($"Sua poltrona é a {Poltrona} e o valor da sua passagem é {Valor}, Boa Viagem {cliente.Nome}");
+    }
+    public void CapturaDadosVoo()
+    {
+        Console.WriteLine("Certo! Agora iremos capturar as informações do seu Voo.");
+        Console.WriteLine("Qual o valor da Passagem?");
+        Valor = double.Parse(Console.ReadLine());
+        Console.WriteLine("Qual sua empresa aérea?");
+        EmpresaAerea = Console.ReadLine();
+        Console.WriteLine("Qual classe do seu voo?");
+        Classe = int.Parse(Console.ReadLine());
+        Console.WriteLine("Qual sua poltrona?");
+        Poltrona = Console.ReadLine();
+        Console.WriteLine("Qual a data do embarque?");
+        DataEmbarque = DateTime.Parse(Console.ReadLine());
+        Console.WriteLine("Qual a data do retorno?");
+        HoraEmbarque = DateTime.Parse(Console.ReadLine());
 
     }
 
@@ -69,3 +87,11 @@ public class Venda
     public double QuantidadePassagensCompradas { get; set; }
     public double TotalCompra { get; set; }
 }
+public class FormadePagamento
+{
+    
+}
+
+
+
+
